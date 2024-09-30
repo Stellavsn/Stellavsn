@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Stellavsn
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Frontend with HTML, CSS and a part of Javascript. Moreover, I'm learning Backend with PHP, SQL and Java
-- 💞️ I’m looking to find a block release training
+- 💞️ I’m looking to find a stage in development
 
 
 <!---
